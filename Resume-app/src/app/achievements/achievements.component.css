@@ -1,0 +1,16 @@
+.achieve{
+    float: right;
+    margin-right: 9%;
+    width: 50%;
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: Simplifica;
+}
+
+hr {
+    height: 1.5px;
+    background-color: goldenrod;
+}
+

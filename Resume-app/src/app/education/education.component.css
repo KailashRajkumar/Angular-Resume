@@ -1,0 +1,18 @@
+
+.edu{
+    float: right;
+    margin-right: 9%;
+    width: 50%;
+}
+h2{
+    font-family: Simplifica;
+}
+
+#a{
+    font-family: 'Roboto', sans-serif;
+}
+
+hr{
+    height: 1.5px;
+    background-color: goldenrod;
+}

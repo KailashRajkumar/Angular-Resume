@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+h2{
+    color: aliceblue;
+    font-weight: lighter;
+}
+ul{
+    list-style-type: none;
+    padding: 20px;
+    font-weight: lighter;
+}
+.proj {
+    text-align: center;
+    width: 350px;
+    padding-bottom: 80px;
+    color: aliceblue;
+    margin-left: 5%;
+    padding-top: 5px;
+}

@@ -1,0 +1,28 @@
+img{
+    width: 20%;
+    margin-left: 20px;
+}
+
+* {
+    text-align: center;
+    font-weight:bold;
+    font-size: 20px;
+    list-style: none;
+}
+
+
+#name {
+    font-size: 400%;
+    font-weight: 300;
+    color: rgb(49, 42, 42);;
+    font-family: 'Roboto', sans-serif;
+}
+
+#head {
+    width:auto;
+    background-color: rgba(210, 210, 210, 0.765);;
+    color: grey;
+    font-weight: lighter;
+    padding: 15px;
+    max-width: 100%;
+}

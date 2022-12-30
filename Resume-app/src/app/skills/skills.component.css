@@ -1,0 +1,23 @@
+*{
+    background-color: black;
+}
+ul{
+    list-style-type: none;
+    padding: 20px;
+    text-align: center;
+}
+h2{
+    font-weight: lighter;
+}
+.skill{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-left: 5%;
+    width: 350px;
+    font-weight: lighter;
+    color: aliceblue;
+    align-content: center;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+

@@ -1,0 +1,13 @@
+<div class="contact">
+    <h2>Contact </h2>
+    <ul>
+        <li *ngFor="let item of contact">
+            <div><i class="material-symbols-outlined">phone</i><a href="tel:+91 9344685386">{{item.tel}}</a></div>
+            <div><i class="material-symbols-outlined">mail</i><a
+                    href="mailto:kailash14021999@gmail.com">{{item.email}}</a></div>
+            <div><i class="material-symbols-outlined">link</i><a
+                    href="https://www.linkedin.com/in/kailash-rajkumar/">{{item.linkedin}}</a></div>
+            <div id="address"><i id = "marg" class="material-symbols-outlined">home</i>{{item.address}}</div>
+        </li>
+    </ul>
+</div>

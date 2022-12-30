@@ -1,0 +1,38 @@
+* {
+    background-color: black;
+    
+}
+h2{
+    color: aliceblue;
+    font-weight: lighter;
+    text-align: center;
+}
+#address, a{
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: lighter;
+    padding: 5px;
+}
+
+#marg {
+    margin-right: 11px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+    
+  }
+.contact {
+    width: 350px;
+    display: inline-block;
+    margin-left: 5%;
+    /* text-align: center; */
+}
+
+a{
+    margin-left: 10px;
+}
+
+

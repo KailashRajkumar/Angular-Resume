@@ -1,0 +1,20 @@
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.obj {
+    display: inline-block;
+    width: 50%;
+    margin-left: 4%;
+}
+
+h2{
+    font-family: Simplifica;
+}
+
+hr{
+    height: 1px;
+    width: 100%;
+    background-color: goldenrod;
+}
+
